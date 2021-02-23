@@ -1793,15 +1793,15 @@
 						label: "Info",
 						icon: "InfoIcon",
 						items: [
-							{ label: "Overview", href: "https://info.kebabfinance.com" },
+							{ label: "Overview", href: "https://info.camelswap.finance" },
 							{
 								label: "Tokens",
-								href: "https://info.kebabfinance.com/#/tokens",
+								href: "https://info.camelswap.finance/#/tokens",
 							},
-							{ label: "Pairs", href: "https://info.kebabfinance.com/#/pairs" },
+							{ label: "Pairs", href: "https://info.camelswap.finance/#/pairs" },
 							{
 								label: "Accounts",
-								href: "https://info.kebabfinance.com/#/accounts",
+								href: "https://info.camelswap.finance/#/accounts",
 							},
 						],
 					},
@@ -2168,7 +2168,7 @@
 							!n &&
 								Object(i.jsxs)(_t, {
 									children: [
-										Object(i.jsx)("span", { children: r(352, "APY") }),
+										Object(i.jsx)("span", { children: r(352, "APR") }),
 										Object(i.jsx)("span", {
 											className: "right",
 											children: t.apy
@@ -2386,7 +2386,7 @@
 					return Object(i.jsxs)(dt, {
 						children: [
 							Object(i.jsx)(Vt, {
-								children: t(999, "Stake LP tokens to earn KEBAB"),
+								children: t(999, "Stake LP tokens to earn CAMEL"),
 							}),
 							Object(i.jsx)(Wt, {
 								exact: !0,
@@ -3071,7 +3071,7 @@
 												alt: "camel",
 											}),
 											Object(i.jsx)(In, { value: Tn(n), fontSize: "40px" }),
-											Object(i.jsx)(nn, { text: a(330, "KEBAB Earned") }),
+											Object(i.jsx)(nn, { text: a(330, "CAMEL Earned") }),
 										],
 									}),
 									Object(i.jsx)(Pn, {
@@ -3093,7 +3093,7 @@
 													}, e);
 												})
 											),
-											children: o ? "Collecting KEBAB" : "Harvest",
+											children: o ? "Collecting CAMEL" : "Harvest",
 										}),
 									}),
 								],
@@ -3959,7 +3959,7 @@
 										: Object(i.jsx)(Ua, {
 												children: e(
 													590,
-													"\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automagically harvest KEBAB rewards for you!"
+													"\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automagically harvest CAMEL rewards for you!"
 												),
 										  }),
 								],
@@ -4395,7 +4395,7 @@
 												onClick: p,
 												fullWidth: !0,
 												children: n
-													? s(548, "Collecting KEBAB")
+													? s(548, "Collecting CAMEL")
 													: s(999, "Harvest all (".concat(o.length, ")")),
 										  })
 										: Object(i.jsx)(xt, { fullWidth: !0 }),
@@ -4596,12 +4596,12 @@
 					return Object(i.jsx)(kr, {
 						children: Object(i.jsxs)(y.h, {
 							children: [
-								Object(i.jsx)(Sr, { children: e(534, "KEBAB Stats") }),
+								Object(i.jsx)(Sr, { children: e(534, "CAMEL Stats") }),
 								Object(i.jsxs)(Br, {
 									children: [
 										Object(i.jsx)(y.t, {
 											fontSize: "14px",
-											children: e(536, "Total KEBAB Supply"),
+											children: e(536, "Total CAMEL Supply"),
 										}),
 										a && Object(i.jsx)(Ja, { fontSize: "14px", value: a }),
 									],
@@ -4610,7 +4610,7 @@
 									children: [
 										Object(i.jsx)(y.t, {
 											fontSize: "14px",
-											children: e(538, "Total KEBAB Burned"),
+											children: e(538, "Total CAMEL Burned"),
 										}),
 										Object(i.jsx)(Ja, { fontSize: "14px", value: Tn(n) }),
 									],
@@ -4619,7 +4619,7 @@
 									children: [
 										Object(i.jsx)(y.t, {
 											fontSize: "14px",
-											children: e(540, "New KEBAB/block"),
+											children: e(540, "New CAMEL/block"),
 										}),
 										Object(i.jsx)(Ja, {
 											fontSize: "14px",
@@ -4780,12 +4780,12 @@
 									children: [
 										Object(i.jsx)(Fr, {
 											as: "h1",
-											children: e(576, "Kebab Finance"),
+											children: e(576, "CAMEL Finance"),
 										}),
 										Object(i.jsx)(Lr, {
 											children: e(
 												578,
-												"The strategically superior yield farming community on BSC."
+												"Trade & Earn more on Binance Smart Chain. Join Camel community"
 											),
 										}),
 									],
@@ -5038,7 +5038,7 @@
 										children: [
 											Object(i.jsxs)("div", {
 												style: { flex: 1 },
-												children: [e(352, "APY"), ":"],
+												children: [e(352, "APR"), ":"],
 											}),
 											Object(i.jsx)(pi, { children: "??" }),
 										],
@@ -5057,7 +5057,7 @@
 													":",
 												],
 											}),
-											Object(i.jsx)(pi, { children: "??? KEBAB" }),
+											Object(i.jsx)(pi, { children: "??? CAMEL" }),
 										],
 									}),
 								],
@@ -6401,7 +6401,7 @@
 											Object(i.jsxs)("ul", {
 												children: [
 													Object(i.jsx)("li", {
-														children: t(580, "Stake KEBAB to earn new tokens."),
+														children: t(580, "Stake CAMEL to earn new tokens."),
 													}),
 													Object(i.jsx)("li", {
 														children: t(404, "You can unstake at any time."),
