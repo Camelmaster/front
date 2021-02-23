@@ -1779,11 +1779,11 @@
 						items: [
 							{
 								label: "Exchange",
-								href: "https://swap.kebabfinance.com/#/swap",
+								href: "https://swap.camelswap.finance/#/swap",
 							},
 							{
 								label: "Liquidity",
-								href: "https://swap.kebabfinance.com/#/pool",
+								href: "https://swap.camelswap.finance/#/pool",
 							},
 						],
 					},
@@ -4384,7 +4384,7 @@
 								Object(i.jsxs)(pr, {
 									children: [
 										Object(i.jsx)(dr, { children: Object(i.jsx)(er, {}) }),
-										Object(i.jsx)(yr, { children: s(546, "KEBAB in Wallet") }),
+										Object(i.jsx)(yr, { children: s(546, "CAMEL in Wallet") }),
 									],
 								}),
 								Object(i.jsx)(br, {
