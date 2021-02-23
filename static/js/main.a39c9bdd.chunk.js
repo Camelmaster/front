@@ -3933,7 +3933,7 @@
 							Object(i.jsxs)(_a, {
 								children: [
 									Object(i.jsx)(Pa, {
-										children: e(999, "Stake LP tokens to earn KEBAB"),
+										children: e(999, "Stake LP tokens to earn CAMEL"),
 									}),
 									y &&
 										Object(i.jsx)(Sa, { tokenName: p, endBlock: y.endBlock }),
@@ -4780,7 +4780,7 @@
 									children: [
 										Object(i.jsx)(Fr, {
 											as: "h1",
-											children: e(576, "CAMEL Finance"),
+											children: e(576, "CAMEL Swap"),
 										}),
 										Object(i.jsx)(Lr, {
 											children: e(
@@ -6588,7 +6588,7 @@
 												children: [
 													Object(i.jsx)(c, { children: "LP Token" }),
 													Object(i.jsx)(c, { children: "Avail. Liquidities" }),
-													Object(i.jsx)(c, { children: "Harvestable KEBABs" }),
+													Object(i.jsx)(c, { children: "Harvestable CAMELs" }),
 													Object(i.jsx)(c, { children: "Total Value" }),
 												],
 											}),
