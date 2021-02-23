@@ -1809,9 +1809,9 @@
 						label: "More",
 						icon: "MoreIcon",
 						items: [
-							{ label: "Governance", href: "https://gov.kebabfinance.com" },
-							{ label: "Github", href: "https://github.com/chefkebab" },
-							{ label: "Blog", href: "https://kebabfinance1.medium.com" },
+							{ label: "Governance", href: "https://gov.camelswap.finance" },
+							{ label: "Github", href: "https://github.com/camelmaster" },
+							{ label: "Blog", href: "https://camelswap1.medium.com" },
 						],
 					},
 				],
@@ -4785,7 +4785,7 @@
 										Object(i.jsx)(Lr, {
 											children: e(
 												578,
-												"Trade & Earn more on Binance Smart Chain. Join Camel community"
+												"Trade & Earn ++ on Binance Smart Chain. Join Camel community"
 											),
 										}),
 									],
