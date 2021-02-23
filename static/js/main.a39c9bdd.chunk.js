@@ -4271,7 +4271,7 @@
 			}
 			function sr() {
 				var e = Object(Pe.a)([
-					"\n  background-image: url('/images/cake-bg.svg');\n  background-repeat: no-repeat;\n  background-position: top right;\n  background-size: 60%;\n  margin-left: auto;\n  margin-right: auto;\n  max-width: 344px;\n  width: 100%;\n\n  ",
+					"\n  background-image: url('/images/cake-bg.png');\n  background-repeat: no-repeat;\n  background-position: top right;\n  background-size: 60%;\n  margin-left: auto;\n  margin-right: auto;\n  max-width: 344px;\n  width: 100%;\n\n  ",
 					" {\n    margin: 0;\n    max-width: none;\n  }\n",
 				]);
 				return (
