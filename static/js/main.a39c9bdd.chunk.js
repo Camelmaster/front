@@ -5689,7 +5689,7 @@
 														children: [
 															Object(i.jsxs)("span", {
 																role: "img",
-																"aria-label": "syrup",
+																"aria-label": "oasis",
 																children: ["\ud83e\udd59", " "],
 															}),
 															y(408, "Total"),
@@ -6396,7 +6396,7 @@
 												as: "h1",
 												size: "xxl",
 												mb: "16px",
-												children: t(282, "Ketchup?"),
+												children: t(282, "Thirsty Get OASIS!!"),
 											}),
 											Object(i.jsxs)("ul", {
 												children: [
@@ -6418,7 +6418,7 @@
 									}),
 									Object(i.jsx)("img", {
 										src: "/images/syrup.png",
-										alt: "SYRUP POOL icon",
+										alt: "OASIS POOL icon",
 									}),
 								],
 							}),
