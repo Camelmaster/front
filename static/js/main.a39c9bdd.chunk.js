@@ -6394,9 +6394,9 @@
 										children: [
 											Object(i.jsx)(y.k, {
 												as: "h1",
-												size: "xxl",
+												size: "lg",
 												mb: "16px",
-												children: t(282, "Thirsty Get OASIS!!"),
+												children: t(282, "OASIS?"),
 											}),
 											Object(i.jsxs)("ul", {
 												children: [
