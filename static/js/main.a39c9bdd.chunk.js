@@ -2161,7 +2161,7 @@
 									Object(i.jsx)("span", { children: r(318, "Earn") }),
 									Object(i.jsx)("span", {
 										className: "right",
-										children: t.dual ? t.dual.earnLabel : "KEBAB",
+										children: t.dual ? t.dual.earnLabel : "CAMEL",
 									}),
 								],
 							}),
@@ -6238,7 +6238,7 @@
 										children: [
 											Object(i.jsxs)("div", {
 												style: { flex: 1 },
-												children: [C(352, "APY"), ":"],
+												children: [C(352, "APR"), ":"],
 											}),
 											B ||
 											$ ||
@@ -6618,7 +6618,7 @@
 															],
 														}),
 														Object(i.jsxs)(p, {
-															children: [e.harvestDisp, " KEBAB"],
+															children: [e.harvestDisp, " CAMEL"],
 														}),
 														Object(i.jsxs)(p, {
 															children: [
