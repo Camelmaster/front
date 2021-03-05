@@ -2023,9 +2023,10 @@
 					e
 				);
 			}
+//Thierry 
 			function Tt() {
 				var e = Object(Pe.a)([
-					"\n  background: linear-gradient(\n    45deg,\n    rgba(0, 0, 255, 1) 0%,\n    rgba(154, 0, 255, 1) 10%,\n    rgba(222, 33, 208, 1) 20%,\n    rgba(220, 74, 79, 1) 30%,\n    rgba(218, 216, 63, 1) 40%,\n    rgba(201, 226, 47, 1) 50%,\n    rgba(127, 238, 28, 1) 60%,\n    rgba(21, 242, 95, 1) 70%,\n    rgba(12, 248, 186, 1) 80%,\n    rgba(7, 217, 251, 1) 90%,\n    rgba(0, 0, 255, 1) 100%\n  );\n  background-size: 300% 300%;\n  animation: ",
+					"\n  background: linear-gradient(\n    45deg,\n    rgba(0, 255, 255, 1) 0%,\n    rgba(255, 128, 0, 1) 10%,\n rgba(0, 255, 255, 1) 20%,\n    rgba(0, 255, 255, 1) 30%,\n    rgba(0, 255, 255, 1) 40%,\n    rgba(0, 255, 255, 1) 50%,\n  ;\n  background-size: 300% 300%;\n  animation: ",
 					" 2s linear infinite;\n  border-radius: 16px;\n  filter: blur(6px);\n  position: absolute;\n  top: -2px;\n  right: -2px;\n  bottom: -2px;\n  left: -2px;\n  z-index: -1;\n",
 				]);
 				return (
@@ -2126,7 +2127,7 @@
 							: "-";
 					return Object(i.jsxs)(Pt, {
 						children: [
-							"KEBAB" === t.tokenSymbol && Object(i.jsx)(Dt, {}),
+							"CAMEL" === t.tokenSymbol && Object(i.jsx)(Dt, {}),
 							Object(i.jsxs)(Et, {
 								children: [
 									Object(i.jsxs)(y.j, {
@@ -5689,12 +5690,12 @@
 												Object(i.jsx)(Xi, {
 													children: Object(i.jsxs)(Yi, {
 														children: [
-															Object(i.jsxs)("span", {
-																role: "img",
-																"aria-label": "oasis",
-																children: ["\ud83e\udd59", " "],
-															}),
-															y(408, "Total"),
+				//											Object(i.jsxs)("span", {
+				//												role: "img",
+				//												"aria-label": "oasis",
+				//												children: ["\ud83e\udd59", " "],
+				//											}),
+															y(408, "Total Stacked"),
 														],
 													}),
 												}),
@@ -5702,6 +5703,7 @@
 													fontSize: "14px",
 													isDisabled: r,
 													value: Tn(n),
+													unit: " CAMEL",
 												}),
 											],
 										}),
