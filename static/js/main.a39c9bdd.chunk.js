@@ -876,18 +876,20 @@
 				},
 				ee = X.reducer,
 				te = n(35),
+
+//Thierry
 				ne = [
 					{
 						sousId: 0,
-						tokenName: "KEBAB",
-						stakingTokenName: a.KEBAB,
+						tokenName: "CAMEL",
+						stakingTokenName: a.CAMEL,
 						stakingTokenAddress: "0x7979F6C54ebA05E18Ded44C4F986F49a5De551c2",
 						contractAddress: {
 							97: "0x3642f8ab6ab7113e0fab27f5434577ad4788f899",
 							56: "0x76FCeffFcf5325c6156cA89639b17464ea833ECd",
 						},
 						poolCategory: r.CORE,
-						projectLink: "http://kebabfinance.com/",
+						projectLink: "https://camelswap.finance/",
 						harvest: !0,
 						tokenPerBlock: "0.24924924924",
 						sortOrder: 1,
@@ -897,7 +899,7 @@
 					{
 						sousId: 1,
 						tokenName: "BTCB",
-						stakingTokenName: a.KEBAB,
+						stakingTokenName: a.CAMEL,
 						stakingTokenAddress: "0x7979F6C54ebA05E18Ded44C4F986F49a5De551c2",
 						contractAddress: {
 							97: "",
@@ -914,7 +916,7 @@
 					{
 						sousId: 2,
 						tokenName: "BNB",
-						stakingTokenName: a.KEBAB,
+						stakingTokenName: a.CAMEL,
 						stakingTokenAddress: "0x7979F6C54ebA05E18Ded44C4F986F49a5De551c2",
 						contractAddress: {
 							97: "",
@@ -6055,6 +6057,7 @@
 						),
 						Y = Math.max(w - N, 0),
 						G = Math.max(k - N, 0),
+//Thierry						
 						$ = c === a.KETCH,
 						Z = (null === V || void 0 === V ? void 0 : V.toNumber()) > 0,
 						ee = !Z && !W.toNumber() && !A,
@@ -6544,6 +6547,7 @@
 							tvl: null,
 							harvestDisp: null,
 						};
+//Thierry						
 						"KETCH" !== s.tokenSymbol &&
 							((s.share = s.harvestable.div(new m.a(s.lpSupply)).toNumber()),
 							(s.balanceBase = new m.a(s.tokenAmount)
