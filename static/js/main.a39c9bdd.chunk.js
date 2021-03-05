@@ -6257,15 +6257,14 @@
 														value:
 															null === j || void 0 === j
 																? void 0
-																: j.toNumber(),
+
+//Thierry times(100)
+															: j.times(100).toNumber(),
 														decimals: 2,
 														unit: "%",
 												  }),
 										],
 									}),
-
-//Thierry
-
 									Object(i.jsxs)(cu, {
 										children: [
 											Object(i.jsxs)("div", {
