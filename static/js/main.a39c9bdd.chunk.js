@@ -5031,10 +5031,11 @@
 									Object(i.jsx)(si, {
 										children: e(416, "Create a pool for your token"),
 									}),
+							// Thierry		
 									Object(i.jsx)(oi, {
 										href:
-											"https://docs.google.com/forms/d/e/1FAIpQLSc1gPCMYOjWC75bcK-9weaia4egPfCPLvkaINVGpc6IidogLA/viewform",
-										target: "_blank",
+											"mailto:mastercamel@camelswap.finance",
+							//			target: "_blank",
 										children: e(418, "Apply Now"),
 									}),
 									Object(i.jsxs)(ci, {
@@ -5051,11 +5052,12 @@
 											Object(i.jsxs)("div", {
 												style: { flex: 1 },
 												children: [
-													Object(i.jsxs)("span", {
-														role: "img",
-														"aria-label": "coming",
-														children: ["\ud83e\udd59", " "],
-													}),
+			// Thierry
+			//										Object(i.jsxs)("span", {
+			//											role: "img",
+			//											"aria-label": "coming",
+			//											children: ["\ud83e\udd59", " "],
+			//										}),
 													e(384, "Your Stake"),
 													":",
 												],
@@ -5690,7 +5692,7 @@
 												Object(i.jsx)(Xi, {
 													children: Object(i.jsxs)(Yi, {
 														children: [
-				//											Object(i.jsxs)("span", {
+				// Thierry											Object(i.jsxs)("span", {
 				//												role: "img",
 				//												"aria-label": "oasis",
 				//												children: ["\ud83e\udd59", " "],
@@ -5703,7 +5705,7 @@
 													fontSize: "14px",
 													isDisabled: r,
 													value: Tn(n),
-													unit: " CAMEL",
+													unit: " Tokens",
 												}),
 											],
 										}),
