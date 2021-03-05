@@ -6261,19 +6261,20 @@
 												  }),
 										],
 									}),
+
+//Thierry
+
 									Object(i.jsxs)(cu, {
 										children: [
 											Object(i.jsxs)("div", {
 												style: { flex: 1 },
 												children: [
-													Object(i.jsxs)("span", {
-														role: "img",
-														"aria-label": c,
-														children: ["\ud83e\udd59", " "],
-													}),
-													C(384, "Your Stake"),
-													":",
-												],
+											//		Object(i.jsxs)("span", {
+											//			role: "img",
+											//			"aria-label": c,
+											//			children: ["\ud83e\udd59", " "],
+											//		}),
+													C(384, "Your Stake"), ":"],
 											}),
 											Object(i.jsx)(fi, {
 												fontSize: "14px",
@@ -6358,7 +6359,7 @@
 						u = Jr(),
 						s = r.map(function (e) {
 							var t = a.find(function (e) {
-									return "KEBAB-BUSD LP" === e.lpSymbol;
+									return "CAMEL-BUSD LP" === e.lpSymbol;
 								}),
 								n = new m.a(
 									null === t || void 0 === t ? void 0 : t.tokenPriceVsQuote
