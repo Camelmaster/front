@@ -40,7 +40,7 @@ html,body {
 }
 
 body {
-    background-color: #f9f3eb
+    background-color: #ebe1d8
 }
 
 * {
@@ -100,7 +100,7 @@ body {
 
 .nav-btn {
     padding: .5rem 1.5rem;
-    background: #5a8f69;
+    background: #b79372;
     color: #fff;
     border-radius: 2rem;
     font-weight: 700;
@@ -231,7 +231,7 @@ body {
     width: 100vw;
     height: 30rem;
     border-radius: 50%;
-    background-color: #5a8f69
+    background-color: #be9e7f
 }
 
 .plain-center-fg {
