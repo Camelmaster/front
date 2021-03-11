@@ -151,7 +151,7 @@ body {
 
 .hero-brand-logo:active {
     transition: none;
-    transform: scale(.40)
+    transform: scale(.95)
 }
 
 .hero-brand-name {
